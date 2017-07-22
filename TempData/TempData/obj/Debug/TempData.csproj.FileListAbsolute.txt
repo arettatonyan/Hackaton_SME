@@ -1,0 +1,6 @@
+D:\CodeDeneme\TempData\TempData\bin\Debug\TempData.exe.config
+D:\CodeDeneme\TempData\TempData\bin\Debug\TempData.exe
+D:\CodeDeneme\TempData\TempData\bin\Debug\TempData.pdb
+D:\CodeDeneme\TempData\TempData\obj\Debug\TempData.csprojResolveAssemblyReference.cache
+D:\CodeDeneme\TempData\TempData\obj\Debug\TempData.exe
+D:\CodeDeneme\TempData\TempData\obj\Debug\TempData.pdb
